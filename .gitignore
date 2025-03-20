@@ -1,0 +1,7 @@
+__pycache__/
+*.pt
+*.log
+.env
+data/
+models/
+docker/
