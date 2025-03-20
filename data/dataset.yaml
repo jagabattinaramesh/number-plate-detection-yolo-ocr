@@ -1,0 +1,6 @@
+train: /usr/src/ultralytics/data/images/train
+val: /usr/src/ultralytics/data/images/val
+test: /usr/src/ultralytics/data/images/test  
+
+nc: 1  # Number of classes
+names: ['number_plate']  # Replace with actual class names
